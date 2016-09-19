@@ -1,0 +1,11 @@
+{
+  "name": "site",
+  "version": "0.1.0",
+  "description": "Site damasio34.com",
+  "main": "app/index.html",
+  "authors": [
+    "Darlan Damasio"
+  ],
+  "license": "MIT",
+  "dependencies": {}
+}
